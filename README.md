@@ -25,16 +25,19 @@ The app displays a weekly bar chart showing your spending patterns and a scrolla
 ### Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/Uday1772002/BudgetBee.git
    ```
 
 2. Navigate to the project directory:
+
    ```bash
    cd BudgetBee
    ```
 
 3. Get dependencies:
+
    ```bash
    flutter pub get
    ```
